@@ -1,0 +1,25 @@
+name: fomula
+version: "1"
+sort: by_weight
+
+...
+\frac{分子}{分母}	ffcy	100
+\sqrt[根指数]{被开方数}	fffg	100
+\int_{0}^{1}	ffjf	100
+\sum\limits_{i=1}^{n}	ffqh	100
+\lim\limits_{x \to 0}	ffjx	100
+\alpha	ffa	100
+\beta	ffb	100
+\gamma	ffg	100
+\delta	ffd	100
+\eta	ffe	100
+\lambda	ffl	100
+\mu	ffm	100
+\nu	ffn	100
+\pi	ffp	100
+\rho	ffr	100
+\sigma	ffs	100
+\omega	ffo	100
+\epsilon	ffe	100
+\varphi	ffv	100
+\tau	fft

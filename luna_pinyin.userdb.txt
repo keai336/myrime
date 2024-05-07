@@ -1,0 +1,37 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	24
+#@/user_id	keai
+an 	按	c=0 d=0.0937067 t=24
+bu 	不	c=0 d=0.0960789 t=24
+bu qian dao ma 	不簽到嗎	c=1 d=0.965605 t=24
+dian 	點	c=1 d=0.97531 t=24
+gai shu 	概述	c=1 d=0.951229 t=24
+ji ge 	幾個	c=1 d=0.927743 t=24
+jian dan 	簡單	c=2 d=1.91693 t=24
+jian shu 	簡述	c=1 d=1 t=24
+jiu 	就	c=0 d=0.0918512 t=24
+jiu ren shi 	就認識	c=1 d=0.923116 t=24
+liu ti li xue 	流體力學	c=1 d=0.985112 t=24
+ma 	嗎	c=1 d=1.01459 t=24
+miao shu 	描述	c=1 d=0.980199 t=24
+mu ke 	幕客	c=1 d=0.960789 t=24
+neng guo 	能過	c=1 d=0.909373 t=24
+qian dao 	簽到	c=0 d=0.0960789 t=24
+re ji 	熱機	c=0 d=0.0937067 t=24
+re ji an 	熱機按	c=1 d=0.941765 t=24
+ren shi 	認識	c=0 d=0.0918512 t=24
+sha 	啥	c=0 d=0.0900325 t=24
+sha jian 	啥見	c=1 d=0.99005 t=24
+sha jiang 	啥獎	c=1 d=0.995012 t=24
+sha ya zi 	啥鴨子	c=1 d=0.904837 t=24
+shu ru fa 	輸入法	c=1 d=1 t=24
+shu zi 	數字	c=1 d=0.932394 t=24
+tian 	天	c=1 d=0.913931 t=24
+xia 	下	c=1 d=0.955997 t=24
+xiao lang hao 	小狼毫	c=1 d=0.995012 t=24
+ya zi 	鴨子	c=0 d=0.0900325 t=24
+zen me xie 	怎麼寫	c=1 d=0.937067 t=24
+zhen de 	真的	c=1 d=0.99005 t=24
