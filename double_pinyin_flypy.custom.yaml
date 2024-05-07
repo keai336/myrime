@@ -1,0 +1,8 @@
+patch:
+  ### 重定义反查 辅码触发
+  speller/alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA;
+  speller/initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA;
+  recognizer/patterns/radical_lookup: ";;[a-z]+$"
+  radical_lookup/prefix: ";;"
+  radical_lookup/tips: "   拆拆拆"
+  key_binder/search: ";"  ##辅码引导
