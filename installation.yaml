@@ -1,8 +1,8 @@
 distribution_code_name: Weasel
 distribution_name: "小狼毫"
-distribution_version: 0.15.0.0
+distribution_version: 0.16.0
 install_time: "Wed May 10 19:26:25 2023"
-rime_version: 1.8.5
-update_time: "Fri Jun 23 22:48:09 2023"
-installation_id: "keai"
+installation_id: keai
+rime_version: 1.11.2
 sync_dir: "F:/micloud/configs/rime"
+update_time: "Mon May 27 10:58:59 2024"
